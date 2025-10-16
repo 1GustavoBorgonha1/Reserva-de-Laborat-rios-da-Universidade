@@ -151,19 +151,6 @@ O sistema utiliza o paradigma orientado a eventos através de:
 
 ---
 
-## 🧾 Critérios Atendidos
-
-| Critério | Descrição | Pontuação |
-|-----------|------------|-----------|
-| Implementação de eventos (`emit` / `on`) | Comunicação entre cliente e servidor | ✅ 3.0 |
-| Fluxo completo de interação | Atualizações sincronizadas e reativas | ✅ 3.0 |
-| Reatividade em tempo real | Atualização automática para todos os usuários | ✅ 2.0 |
-| Organização e clareza do código | Código estruturado e comentado | ✅ 1.0 |
-| Documentação (README) | Explicação e guia de instalação completos | ✅ 1.0 |
-| **Total estimado:** |  | **10.0 pts** |
-
----
-
 ## 🖋️ Créditos
 
 Desenvolvido por:  
